@@ -149,6 +149,7 @@ my name here
 - Aditi (https://github.com/AditiSharma00)
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
+- [unique]
   [Conan]
 - [Christine Brown Clayton](https://github.com/chitech)
 - Gab
